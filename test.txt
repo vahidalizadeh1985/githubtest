@@ -1,2 +1,3 @@
 Hello 
 This is a test.
+add the color red
